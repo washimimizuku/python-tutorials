@@ -1,0 +1,43 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+"colorgram.py" = "*"
+prettytable = "*"
+pyperclip = "*"
+requests = "*"
+twilio = "*"
+python-dotenv = "*"
+beautifulsoup4 = "*"
+requests-html = "*"
+spotipy = "*"
+selenium = "*"
+flask = "*"
+flask-wtf = "*"
+email-validator = "*"
+flask-bootstrap = "*"
+flask-sqlalchemy = "*"
+autopep8 = "*"
+flask-ckeditor = "*"
+flask-login = "*"
+flask-gravatar = "*"
+gunicorn = "*"
+psycopg2-binary = "*"
+ipykernel = "*"
+matplotlib = "*"
+plotly = "*"
+nbformat = "*"
+scipy = "*"
+seaborn = "*"
+sklearn = "*"
+statsmodels = "*"
+numpy = "*"
+
+[dev-packages]
+notebook = "*"
+
+[requires]
+python_version = "3.9"
