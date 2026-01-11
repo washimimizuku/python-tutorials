@@ -12,3 +12,7 @@ patch:
         patched: '2026-01-04T10:58:45.317Z'
         id: SNYK-JS-LODASH-567746
         path: react-scripts > @babel/core > lodash
+    - react-scripts > @babel/core > lodash:
+        patched: '2026-01-11T11:21:45.791Z'
+        id: SNYK-JS-LODASH-567746
+        path: react-scripts > @babel/core > lodash
