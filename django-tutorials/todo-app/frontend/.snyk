@@ -28,3 +28,7 @@ patch:
         patched: '2026-02-01T11:02:26.998Z'
         id: SNYK-JS-LODASH-567746
         path: react-scripts > eslint-plugin-flowtype > lodash
+    - react-scripts > eslint-plugin-flowtype > lodash:
+        patched: '2026-02-08T11:23:41.254Z'
+        id: SNYK-JS-LODASH-567746
+        path: react-scripts > eslint-plugin-flowtype > lodash
